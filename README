@@ -1,1 +1,29 @@
-teste
+here is a script that a few line of code 
+that allows you to control the waves of water 
+it is really basic
+
+
+to change the density of the waves just change the value of the line
+
+'Citizen.InvokeNative(0xC54A08C85AE4D410, 0.0)'
+
+0.0 is the base value I advise you not to go beyond 1.0
+the waves will be in the shape of a pick I tested the value 
+to see if there would be any crashes but none even with a value of + 50.0
+
+
+
+
+
+
+voici un script que quelque ligne de code 
+qui vous permet de controler les vague de l'eau 
+il est vraiment basic
+
+pour changer le densité des vague il suffit de changer la valeur de la linge
+
+'Citizen.InvokeNative(0xC54A08C85AE4D410, 0.0)'
+
+0.0 est la valeur de base je vous conseille de ne pas aller au decu de 1.0
+les vague seront en forme de pick j'ai tester la valeur pour voir si il 
+aurais des crash mais aucun meme avec une valeur de  + 50.0
